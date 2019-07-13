@@ -1,0 +1,10 @@
+git init                                                                //iniitialize git 
+git add README.md                                                       //addding README text file
+git commit -m "first commit"                                            //commiting code
+git remote add origin https://github.com/divyaNarayanagari/jakson.git   //adding project into github repository 
+git push -u origin master                                               //pushing to master branch 
+
+push an existing repository from the command line
+
+git remote add origin https://github.com/divyaNarayanagari/jakson.git   
+git push -u origin master
